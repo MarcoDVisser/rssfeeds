@@ -1,0 +1,77 @@
+## SCIENCE
+http://science.sciencemag.org/rss/current.xml
+http://science.sciencemag.org/rss/ec.xml
+
+## Nature
+http://feeds.nature.com/nature/rss/current
+
+## R Bloggers
+http://feeds.feedburner.com/RBloggers?format=xml
+
+
+## Biology Letters
+http://rsbl.royalsocietypublishing.org/rss/current.xml 
+## ELE
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1461-0248 
+## Perpectives Plant Ecol
+http://rss.sciencedirect.com/publication/science/14338319/ 
+#New Phyt
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1469-8137 
+## Heredity
+http://feeds.nature.com/hdy/rss/current 
+## trends in plant science
+http://rss.sciencedirect.com/publication/science/13601385/ 
+## JECOL
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2745 
+## Function Ecol
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2435
+## Amnat
+
+## Consevation Ecology
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1755-263X 
+## Ecogrpahy
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1600-0587 
+## Ecol & Evolution 
+http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2045-7758 
+## MEE
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)2041-210X 
+## Global Change Biology
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2486 
+## Oikos
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1600-0706 
+## FEM
+http://rss.sciencedirect.com/publication/science/03781127/ 
+## Conservation Biology
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1523-1739 
+## Systematic Review Biology
+http://sysbio.oxfordjournals.org/rss/current.xml 
+## Trends in Ecology and Evo
+http://rss.sciencedirect.com/publication/science/01695347/ 
+## Applied veg Science
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1654-109X 
+## Current Biology
+http://www.cell.com/rssFeed/current-biology/rss.NewArticles.xml 
+
+## Ecological Modelling
+http://rss.sciencedirect.com/publication/science/03043800 
+
+## Acta Oecologica
+http://rss.sciencedirect.com/publication/science/1146609X 
+
+## PLANT ECOLOGY AND EVOLUTION
+http://api.ingentaconnect.com/content/botbel/plecevo/latest?format=rss 
+
+## Population Ecology
+http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10144&amp;channel-name=Population%20Ecology 
+
+## ECOLOGY and BIOgeography
+http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1466-8238 
+
+######### NEWS
+http://www.reddit.com/.rss
+http://rss.cnn.com/rss/cnn_topstories.rss
+http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml
+http://feeds.nos.nl/nosjournaal?format=xml
+http://www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989
+
+
